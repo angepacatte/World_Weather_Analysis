@@ -3,3 +3,6 @@ This project created a template for a vacation search.  It began with allowing a
 
 <img width="997" alt="image" src="https://user-images.githubusercontent.com/85581208/162491838-b2083aa9-2225-4334-af12-11d964776f00.png">
 
+![image](https://user-images.githubusercontent.com/85581208/162491976-bc1731fb-6f10-4d85-9504-cfc6b8853ee1.png)
+
+
